@@ -222,11 +222,15 @@ Someone’s added their voice, now it’s your turn to rejoice! Respond and keep
 头像被拒：
 🚫 Avatar Rejected!
 Sorry, your avatar didn’t pass. Follow the rules and upload a new one! 🔄 
+
+🚫 Avatar Rejected!
 Sorry, your partner’s avatar didn’t pass. Follow the rules and upload a new one! 🔄
 
 相册照片被拒：
 🚫 Photos Rejected!
 Sorry, some photos in your album didn’t pass. Follow the rules and upload new ones! 📸
+
+🚫 Photos Rejected!
 Sorry, some photos in your partner’s album didn’t pass. Follow the rules and upload new ones! 📸
 
 Post图片被拒：
@@ -240,4 +244,6 @@ Sorry, your post was rejected. Follow the rules and update it accordingly! 💬
 个人描述被拒：
 🚫 Bio Rejected!
 Sorry, your bio didn’t pass. Review the guidelines and submit a revised version! ✍️
+
+🚫 Bio Rejected!
 Sorry, your partner’s bio didn’t pass. Review the guidelines and submit a revised version! ✍️
