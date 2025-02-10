@@ -25,6 +25,7 @@
 
 ## 项目结构
 
+```
 ├── message/ # 消息模板目录
 │ ├── 访客提醒.php # 访客相关通知
 │ ├── 收到CrushNote提醒.php # CrushNote通知
@@ -36,6 +37,7 @@
 │ └── Post整体被拒.php # 帖子审核通知
 ├── lang.php # 语言配置文件
 └── findMissingUrls.php # 图片处理工具类
+```
 
 ## 图片处理功能
 
